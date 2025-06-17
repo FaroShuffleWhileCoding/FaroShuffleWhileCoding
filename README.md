@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I’m a self-taught software engineer and problem-solver who began mastering fundamentals by building drag-and-drop games in Construct 3. I’ve since created web projects with AlpineJS and Bulma, crafted simple iOS experiences in SwiftUI, and experimented with tools like Electron and currently learning SQL for data analytics. Passionate about AI, I’ve also dabbled in machine learning and trained models for personal projects.
+I’m a self-taught software engineer and problem-solver who began mastering fundamentals by building drag-and-drop games in the Construct Engine. I’ve since created web projects with AlpineJS and Bulma, crafted simple iOS experiences in SwiftUI, and experimented with tools like Electron and currently learning SQL for data analytics. Passionate about AI, I’ve also dabbled in machine learning and trained models for personal projects.
 
 * 🌍  I'm based in Boston Area
 * 🚀  I'm currently working on [DBT Dime Game](http://dimegame.kenjames.dev/)
