@@ -7,7 +7,6 @@ Data Analyst
 I’m a self-taught data analyst and problem-solver who began mastering fundamentals by building drag-and-drop games in the Construct Engine. I’ve since created web projects with AlpineJS and Bulma, crafted simple iOS experiences in SwiftUI, and experimented with tools like Electron and currently learning SQL for data analytics. Passionate about AI, I’ve also dabbled in machine learning and trained models for personal projects.
 
 * 🌍  I'm based in Boston Area
-* 🚀  I'm currently working on [DBT Dime Game](http://dimegame.kenjames.dev/)
 * 🧠  I'm learning SQL and sharpening my Python and Javascript skills
 * 🤝  I'm open to collaborating on compelling software projects that are both technically interesting and grounded in values that create meaningful positive outcomes for users
 * ⚡  Currently reading "The Next Conversation | Argue Less, Talk More by Jefferson Fisher"
